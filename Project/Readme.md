@@ -1,2 +1,2 @@
 # Text Summarizer
-Project Deployment Link : https://textsummaraizer.streamlit.app/
+Project Deployment Link : https://textsummaraizers.streamlit.app/
