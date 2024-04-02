@@ -24,7 +24,7 @@ You can use any image you want after the `--image` argument. Make sure you give 
 
 Press **q** to quit the window of the image showing object detection
 
-OUTPUT:![Example Image](https://drive.google.com/file/d/1OfbbKG8dBLlsgvgIwwQXtuAkISrdtcRj/view?usp=sharing)
+OUTPUT:![Example Image](https://github.com/TDhayanithi/Dhayanithi_T_Scifor/blob/main/YOLO_ALGORITHM/output.png)
 
 
 Thanks!
